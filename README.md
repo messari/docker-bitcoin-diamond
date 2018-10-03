@@ -6,6 +6,7 @@ A Bitcoin Diamond docker image.
 
 ## Tags
 
+- `1.1.1`, `latest` ([1.1.1/Dockerfile](https://github.com/messari/docker-bitcoin-diamond/blob/master/1.1.1/Dockerfile))
 - `1.1.0`, `latest` ([1.1.0/Dockerfile](https://github.com/messari/docker-bitcoin-diamond/blob/master/1.1.0/Dockerfile))
 
 
